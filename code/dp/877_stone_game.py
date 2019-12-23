@@ -33,11 +33,6 @@ sum(piles) is odd.
 """
 
 
-class Solution:
-    def stoneGame(self, piles: List[int]) -> bool:
-        pass
-
-
 class Solution1:
     def stoneGame(self, piles):
         return True

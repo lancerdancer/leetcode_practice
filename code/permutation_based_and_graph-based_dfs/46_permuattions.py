@@ -1,3 +1,5 @@
+import unittest
+from unittest import TestCase
 """
 https://leetcode.com/problems/permutations/
 
@@ -18,7 +20,7 @@ Output:
 """
 
 class Solution:
-    def permute(self, nums: List[int]) -> List[List[int]]:
+    def permute(self, nums):
         if not nums:
             return []
         result = []
@@ -36,6 +38,25 @@ class Solution:
             self.dfs(nums[:i] + nums[i+1:], path, result)
             path.pop()
 
+class Tests(TestCase):
+    def setUp(self) -> None:
+        self.target = Solution()
+
+    def test_empty(self):
+        self.assertEqual(self.target.permute([]), [])
+
+    def test_simple(self):
+        self.assertCountEqual(self.target.permute([1, 2, 3]), [
+  [1,2,3],
+  [1,3,2],
+  [2,1,3],
+  [2,3,1],
+  [3,1,2],
+  [3,2,1]
+])
+
+if __name__ == '__main__':
+    unittest.main()
 
 
 
