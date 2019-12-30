@@ -14,3 +14,6 @@ Problems from leetcode/lintcode and my solutions for them.
 ### Sweep Line
 - [218. The Skyline Problem](code/sweep_line/218_the_skyline_problem.py)
 
+### One Pass Algorithm
+- [169. Majority Element](code/list/169_majority_element.py)
+- [1031. Maximum Sum of Two Non-Overlapping Subarrays](code/list/1031_maximun_sum_of_two_non_overlapping_subarrays.py)
