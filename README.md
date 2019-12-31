@@ -5,8 +5,12 @@ Problems from leetcode/lintcode and my solutions for them.
 |  Name  | Specialization | Example |
 | ------ | -------------- | ------- |
 | Boyer-Moore Voting Algorithm | Find the majority of a sequence of elements using linear time and constant space. | [169 Majority Element](code/list/169_majority_element.py) |
+| Catalan number | counting problems in combinatorics [wiki](https://en.wikipedia.org/wiki/Catalan_number)| [96. Unique Binary Search Trees](code/dp/96_unique_binary_search_trees.py) |
 
 ## Need more practice
+
+### Dynamic Programming
+- [96. Unique Binary Search Trees](code/dp/96_unique_binary_search_trees.py)
 
 ### DFS
 - [437. Path Sum III](code/binary_tree_and_tree-based_dfs/437_path_sum_iii.py)
