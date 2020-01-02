@@ -1,5 +1,20 @@
 # Leetcode Practice
-Problems from leetcode/lintcode and my solutions for them.  
+Problems from leetcode/lintcode and my solutions for them.
+
+## Category
+- [BFS and Topological Sort](code/bfs_and_topological_sort)
+- [Binary Search](code/binary_search)
+- [Binary Tree and Tree-based DFS](code/binary_tree_and_tree-based_dfs)
+- [Combination Based DFS](code/combination_based_dfs)
+- [Dynamic Programming](code/dp)
+- [Heap Queue](code/heapq)
+- [List](code/list)
+- [Permutation Based and Graph Based DFS](code/permutation_based_and_graph-based_dfs)
+- [Stack](code/stack)
+- [Sweep Line](code/sweep_line)
+- [Trie](code/trie)
+- [Two Pointers](code/two_pointers)
+- [Union Find](code/union_find)
 
 ## Specialized Algorithms 
 |  Name  | Specialization | Example |
@@ -24,3 +39,7 @@ Problems from leetcode/lintcode and my solutions for them.
 
 ### Stack
 - [895. Maximum Frequency Stack](code/stack/895_maximum_frequency_stack.py)
+
+
+## Miscellaneous
+- [Python Multithreading](/misc/multithreading)
