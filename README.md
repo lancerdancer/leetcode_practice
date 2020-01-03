@@ -26,6 +26,7 @@ Problems from leetcode/lintcode and my solutions for them.
 
 ### Dynamic Programming
 - [96. Unique Binary Search Trees](code/dp/96_unique_binary_search_trees.py)
+- [188. Best Time to Buy and Sell Stock IV](code/dp/188_best_time_to_buy_and_sell_stock_iv.py)
 
 ### DFS
 - [437. Path Sum III](code/binary_tree_and_tree-based_dfs/437_path_sum_iii.py)
@@ -36,6 +37,7 @@ Problems from leetcode/lintcode and my solutions for them.
 ### One Pass Algorithm
 - [169. Majority Element](code/list/169_majority_element.py)
 - [1031. Maximum Sum of Two Non-Overlapping Subarrays](code/list/1031_maximun_sum_of_two_non_overlapping_subarrays.py)
+- [325. Maximum Size Subarray Sum Equals k](code/list/325_maximum_size_subarray_sum_equals_k.py)
 
 ### Stack
 - [895. Maximum Frequency Stack](code/stack/895_maximum_frequency_stack.py)
