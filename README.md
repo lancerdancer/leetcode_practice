@@ -7,6 +7,7 @@ Problems from leetcode/lintcode and my solutions for them.
 - [Binary Tree and Tree-based DFS](code/binary_tree_and_tree-based_dfs)
 - [Combination Based DFS](code/combination_based_dfs)
 - [Dynamic Programming](code/dp)
+- [Greedy](code/greedy)
 - [Heap Queue](code/heapq)
 - [List](code/list)
 - [Permutation Based and Graph Based DFS](code/permutation_based_and_graph-based_dfs)
@@ -42,6 +43,11 @@ Problems from leetcode/lintcode and my solutions for them.
 ### Stack
 - [895. Maximum Frequency Stack](code/stack/895_maximum_frequency_stack.py)
 
+### Greedy
+- [406. Queue Reconstruction by Height](code/greedy/406_queue_reconstruction_by_height.py)
+
+### List Operations
+- [616. Add Bold Tag in String](code/list/616_add_bold_tag_in_string.py)
 
 ## Miscellaneous
 - [Python Multithreading](/misc/multithreading)
