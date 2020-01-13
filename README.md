@@ -5,6 +5,7 @@ Problems from leetcode/lintcode and my solutions for them.
 - [BFS and Topological Sort](code/bfs_and_topological_sort)
 - [Binary Search](code/binary_search)
 - [Binary Tree and Tree-based DFS](code/binary_tree_and_tree-based_dfs)
+- [Bit Manipulation](code/bit_manipulation)
 - [Combination Based DFS](code/combination_based_dfs)
 - [Dynamic Programming](code/dp)
 - [Greedy](code/greedy)
@@ -48,6 +49,9 @@ Problems from leetcode/lintcode and my solutions for them.
 
 ### List Operations
 - [616. Add Bold Tag in String](code/list/616_add_bold_tag_in_string.py)
+
+### Bit Manipulation
+- [190. Reverse Bits](code/bit_manipulation/190_reverse_bits.py)
 
 ## Miscellaneous
 - [Python Multithreading](/misc/multithreading)
