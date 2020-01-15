@@ -20,7 +20,7 @@
 ## Testing types, techniques and tactics
 - Installation testing
 - Compatibility testing
-- [Smoke testing](https://en.wikipedia.org/wiki/Smoke_testing_(software\))
+- [Smoke testing](https://en.wikipedia.org/wiki/Smoke_testing_\(software\))
 - [Sanity test](https://en.wikipedia.org/wiki/Sanity_check)
 - [Regression testing](https://en.wikipedia.org/wiki/Regression_testing)
 - [Acceptance testing](https://en.wikipedia.org/wiki/Acceptance_testing)
