@@ -1,12 +1,29 @@
 # Software Testing
-[Software testing - wikipedia](https://en.wikipedia.org/wiki/Software_testing)
+[Software testing - Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
+
+[Software testing tactics - Wikipedia](https://en.wikipedia.org/wiki/Software_testing_tactics)
 
 ## Testing approach
 - Static, dynamic and passive testing
+
+    - Reviews, walkthroughs, or inspections are referred to as **static testing**, involves **verification**.
+    - Executing programmed code with a given set of test cases is referred to as **dynamic testing**, involves **validation**.
+    - **Passive testing** means verifying the system behavior without any interaction with the software product. This is related to offline runtime verification and log analysis.
+
 - Exploratory approach
 - The "box" approach
     - [White-box testing](https://en.wikipedia.org/wiki/White-box_testing)
     - [Black-box testing](https://en.wikipedia.org/wiki/Black-box_testing)
+        - equivalence partitioning
+        - boundary value analysis
+        - all-pairs testing
+        - state transition tables
+        - decision table testing
+        - fuzz testing
+        - model-based testing
+        - use case testing
+        - exploratory testing
+        - specification-based testing: [functional](https://en.wikipedia.org/wiki/Functional_testing) /[non-functional](https://en.wikipedia.org/wiki/Functional_testing)
     - Grey-box testing
     - Component interface testing
     - Visual testing
@@ -38,7 +55,7 @@
 - Traditional waterfall development model
 - Agile or XP development model
 
-## Automated testing
+## [Automated testing](https://en.wikipedia.org/wiki/Test_automation)
 
 ## Testing artifacts
 - [Test plan](https://en.wikipedia.org/wiki/Test_plan)
@@ -53,9 +70,29 @@
 ## Questions
 1. **Functional vs non-functional testing**
     
-    Functional testing refers to activities that verify a specific action or function of the code. These are usually found in the code requirements documentation, although some development methodologies work from use cases or user stories. Functional tests tend to answer the question of "can the user do this" or "does this particular feature work."
+    [Functional](https://en.wikipedia.org/wiki/Functional_testing) testing refers to activities that verify a specific action or function of the code. These are usually found in the code requirements documentation, although some development methodologies work from use cases or user stories. Functional tests tend to answer the question of "can the user do this" or "does this particular feature work."
     
-    Non-functional testing refers to aspects of the software that may not be related to a specific function or user action, such as scalability or other performance, behavior under certain constraints, or security. Testing will determine the breaking point, the point at which extremes of scalability or performance leads to unstable execution. Non-functional requirements tend to be those that reflect the quality of the product, particularly in the context of the suitability perspective of its users.
+    - Smoke testing
+    - Sanity testing
+    - Regression testing
+    - Usability testing
+    
+    [Non-functional](https://en.wikipedia.org/wiki/Functional_testing) testing refers to aspects of the software that may not be related to a specific function or user action, such as scalability or other performance, behavior under certain constraints, or security. Testing will determine the breaking point, the point at which extremes of scalability or performance leads to unstable execution. Non-functional requirements tend to be those that reflect the quality of the product, particularly in the context of the suitability perspective of its users.
+    
+    - Baseline testing
+    - Compliance testing
+    - Documentation testing
+    - Endurance testing
+    - Load testing
+    - Localization testing and Internationalization testing
+    - [Performance testing](https://en.wikipedia.org/wiki/Software_performance_testing)
+    - Recovery testing
+    - Resilience testing
+    - Security testing
+    - Scalability testing
+    - [Stress testing](https://en.wikipedia.org/wiki/Stress_testing)
+    - [Usability testing](https://en.wikipedia.org/wiki/Usability_testing)
+    - Volume testing
 
 2. **Agile vs. traditional**
 
@@ -64,4 +101,7 @@
 4. [**Software verification and validation**](https://en.wikipedia.org/wiki/Software_verification_and_validation)
 
 5. **Design/test elevator/garage door/phone/search engine**
+
+6. [Validation](https://en.wikipedia.org/wiki/Software_verification_and_validation) vs [Verification](https://en.wikipedia.org/wiki/Software_verification)
+
 

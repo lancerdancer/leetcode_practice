@@ -55,3 +55,4 @@ Problems from leetcode/lintcode and my solutions for them.
 
 ## Miscellaneous
 - [Python Multithreading](/misc/multithreading)
+- [Software Testing Methodology](/misc/software_qa/)
