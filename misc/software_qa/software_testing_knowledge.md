@@ -44,12 +44,21 @@
 - Alpha testing
 - Beta testing
 - [Continuous testing](https://en.wikipedia.org/wiki/Continuous_testing)
+- Destructive testing
 - [Software performance testing](https://en.wikipedia.org/wiki/Software_performance_testing)
+    - [Load testing](https://en.wikipedia.org/wiki/Load_testing#Software_load_testing)
+    - Endurance testing
+    - Volume testing 
+    - [Stress testing](https://en.wikipedia.org/wiki/Stress_testing)
+    - Stability testing
 - [Usability testing](https://en.wikipedia.org/wiki/Usability_testing)
 - Accessibility testing
 - Security testing
 - Internationalization and localization
 - [A/B testing](https://en.wikipedia.org/wiki/A/B_testing)
+- Concurrent testing
+- Conformance testing or type testing
+- Output comparison testing
 
 ## Testing process
 - Traditional waterfall development model
@@ -103,5 +112,8 @@
 5. **Design/test elevator/garage door/phone/search engine**
 
 6. [Validation](https://en.wikipedia.org/wiki/Software_verification_and_validation) vs [Verification](https://en.wikipedia.org/wiki/Software_verification)
+- Verification: Have we built the software right? (i.e., does it implement the requirements).
+- Validation: Have we built the right software? (i.e., do the deliverables satisfy the customer).
+
 
 
