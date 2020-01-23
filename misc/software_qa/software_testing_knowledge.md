@@ -81,6 +81,7 @@
     
     [Functional](https://en.wikipedia.org/wiki/Functional_testing) testing refers to activities that verify a specific action or function of the code. These are usually found in the code requirements documentation, although some development methodologies work from use cases or user stories. Functional tests tend to answer the question of "can the user do this" or "does this particular feature work."
     
+    - Unit testing
     - Smoke testing
     - Sanity testing
     - Regression testing
