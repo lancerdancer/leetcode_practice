@@ -33,6 +33,9 @@ Problems from leetcode/lintcode and my solutions for them.
 ### DFS
 - [437. Path Sum III](code/binary_tree_and_tree-based_dfs/437_path_sum_iii.py)
 
+### Recursion, Binary Tree
+- [124. Binary Tree Maximum Path Sum](code/binary_tree_and_tree-based_dfs/124_binary_tree_maximum_path_sum.py)
+
 ### Sweep Line
 - [218. The Skyline Problem](code/sweep_line/218_the_skyline_problem.py)
 
